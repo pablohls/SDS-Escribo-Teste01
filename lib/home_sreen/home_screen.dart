@@ -83,7 +83,7 @@ class _HomeScreenState extends State<HomeScreen> {
               const SizedBox(
                 height: 25,
               ),
-              Text("Soma dos Inteiros: $resultadoSoma"),
+              Text("Soma dos Divisíveis: $resultadoSoma"),
               const SizedBox(
                 height: 25,
               ),
