@@ -1,16 +1,21 @@
-# teste_sds_escribo
+# Seleção de Desenvolvedor de Software - Escribo
 
-A new Flutter project.
+Teste Técnico 01
 
-## Getting Started
+## Instruções para Uso:
 
-This project is a starting point for a Flutter application.
+Como solicitado nas instruções para o teste, desenvolvi uma função que retornasse
+a soma dos dívisiveis de 3 e 5 baseados em um valor inserido pelo usuário.
 
-A few resources to get you started if this is your first Flutter project:
+Desenvolvi a função na linguagem DART e tomei a iniciativa de usando o Flutter
+desenvolver um app web, fazer uma build e hospedá-lo no Firebase.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Dessa forma acredito que tanto o teste quanto a utilização ficaram mais fáceis
+por conter mais elementos visuais intuitivos do que simplesmente rodar a função em
+um promp de comando.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O link para acessar: https://sds-escribo-teste01.web.app/#/
+
+O codigo usado para o desenvolvimento da função se encontra no seguinte caminho:
+
+lib/home_sreen/home_screen.dart
