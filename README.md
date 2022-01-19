@@ -5,12 +5,12 @@ Teste Técnico 01
 ## Instruções para Uso:
 
 Como solicitado nas instruções para o teste, desenvolvi uma função que retornasse
-os dívisiveis de 3 e 5 baseados em um valor inserido pelo usuário.
+a soma dos dívisiveis de 3 e 5 baseados em um valor inserido pelo usuário.
 
 Desenvolvi a função na linguagem DART e tomei a iniciativa de usando o Flutter
-desenvolver um web app e hospedá-lo no Firebase.
+desenvolver um app web, fazer uma build e hospedá-lo no Firebase.
 
-Dessa forma acredito que tanto o teste quanto a utilização ficaram mais facil
+Dessa forma acredito que tanto o teste quanto a utilização ficaram mais fáceis
 por conter mais elementos visuais intuitivos do que simplesmente rodar a função em
 um promp de comando.
 
