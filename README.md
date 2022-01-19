@@ -15,3 +15,7 @@ por conter mais elementos visuais intuitivos do que simplesmente rodar a funçã
 um promp de comando.
 
 O link para acessar: https://sds-escribo-teste01.web.app/#/
+
+O codigo usado para o desenvolvimento da função se encontra no seguinte caminho:
+
+lib/home_sreen/home_screen.dart
